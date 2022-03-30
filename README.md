@@ -1,5 +1,6 @@
 # Angular-morning-B-2022
 
+https://ariel-ac-il.zoom.us/j/83696329713?pwd=RDl4MCs1NEhjNGhVZHh0bE5IMTFOQT09
 
 ## Lesson 01
 
