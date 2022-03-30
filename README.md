@@ -1,7 +1,5 @@
 # Angular-morning-B-2022
 
-https://ariel-ac-il.zoom.us/j/83696329713?pwd=RDl4MCs1NEhjNGhVZHh0bE5IMTFOQT09
-
 ## Lesson 01
 
 - What is Angular
@@ -15,38 +13,33 @@ https://ariel-ac-il.zoom.us/j/83696329713?pwd=RDl4MCs1NEhjNGhVZHh0bE5IMTFOQT09
 - Components
 - Components templates(2 ways).
 
-- Data binding
-
-  1. Interpolation
-  2. Property binding
-  3. Event binding
-  4. 2 way data binding
 
 ## Lesson 03
+Data binding
 
-- Data binding
-
-  - 1. Interpolation
-  - 2. Property Binding
-  - 3. Event Binding
-
-- directives
-  - NgIf
-  - NgFor
-  - NgSwitch
+1. Interpolation
+2. Property binding
+3. Event binding
+4. 2 way data binding
 
 ## Lesson 04
+directives
+- NgIf
+- NgFor
+- NgSwitch
+
+## Lesson 05
+
 
 - task
 - NgStyle
 - built an app - structure.
 
-## Lesson 05
-
-- components and databinding deep dive
-- class task
 
 ## Lesson 06
+- 
+- components and databinding deep dive
+- class task
 
 - services & dependency injection
 
