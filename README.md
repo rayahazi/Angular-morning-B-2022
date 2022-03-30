@@ -10,9 +10,10 @@
 
 ## Lesson 02
 - Modules
-- Components
-- Components templates(2 ways).
-
+- Components - what is it
+- Create component manually
+- Create component automatically
+- Template vs TemplateURL
 
 ## Lesson 03
 Data binding
@@ -27,7 +28,7 @@ directives
 - NgIf
 - NgFor
 - NgSwitch
-
+<!-- 
 ## Lesson 05
 
 
@@ -60,3 +61,4 @@ directives
 ## Lesson 11
 
 ## Lesson 12
+ -->
