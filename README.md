@@ -26,18 +26,16 @@ Data binding
 4. 2 way data binding
 
 ## Lesson 04
-directives
+Structural directives
 - NgIf
 - NgFor
 - NgSwitch
-<!-- 
+
 ## Lesson 05
-
-
-- task
-- NgStyle
-- built an app - structure.
-
+Attribute directives
+- ngStyle
+- ngClass
+<!-- 
 
 ## Lesson 06
 - 
