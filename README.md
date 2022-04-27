@@ -34,9 +34,14 @@ Structural directives
 Attribute directives
 - ngStyle
 - ngClass
-<!-- 
+
 
 ## Lesson 06
+- `@Input()` decorator
+- onChanges interface
+
+<!-- 
+
 - 
 - components and databinding deep dive
 - class task
