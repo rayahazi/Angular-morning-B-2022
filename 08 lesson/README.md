@@ -21,6 +21,8 @@
 
 # Result
 
+<img src='diagram.jpg'/>
+
 ### important notes
 
 All the use of `@Input()` and `@Output()` - happens in the child-component.
