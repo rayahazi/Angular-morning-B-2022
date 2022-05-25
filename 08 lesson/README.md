@@ -2,7 +2,7 @@
 
 - Create 2 components: `shop`, `shop/stock`
 - use bootstrap for design
-- Create new file in shop folder `item.it`, and export a structure class for each item:
+- Create new file in shop folder `item.ts`, and export a structure class for each item:
   - id
   - name
   - price
