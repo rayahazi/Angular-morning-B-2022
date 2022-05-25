@@ -2,11 +2,14 @@
 
 - Create 2 components: `shop`, `shop/stock`
 - use bootstrap for design
-- In shop.ts - create array of items objects, for each object:
+- Create new file in shop folder `item.it`, and export a structure class for each item:
   - id
   - name
   - price
   - stock
+  
+- In shop.ts - import the class, and create array of items objects with initial data. 
+
 - in shop.html - create table to show the items.
 
 - in stock.html - create input(to change stock's number) and button
