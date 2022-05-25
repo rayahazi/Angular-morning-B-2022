@@ -1,0 +1,32 @@
+<div class="container">
+    <h2 class="text-center">My shop...</h2>
+
+    <table class="table table-striped">
+        <thead>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Stock</th>
+        </thead>
+
+        <tbody>
+            <tr *ngFor="let item of myItems">
+                <td>{{ item.Id }}</td>
+                <td>{{ item.Name }}</td>
+                <td>{{ item.Price }}</td>
+                <td>{{ item.Stock }}</td>
+
+                <td>
+                    <!-- call the child component -->
+                    <app-stock
+                    [itemId]="item.Id"
+                    [stock]="item.Stock"
+                    (stockNumberUpdated)="changeStockShop($event)"
+                    ></app-stock>
+                </td>
+
+            </tr>
+        </tbody>
+    </table>
+
+</div>

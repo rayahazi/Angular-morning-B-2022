@@ -1,0 +1,14 @@
+.first{
+    background-color: blue;
+    color: aquamarine;
+}
+
+.second{
+    background-color: brown;
+    color: pink;
+}
+
+.anotherStyle{
+    border: 5px dotted yellow;
+    color:black;
+}
