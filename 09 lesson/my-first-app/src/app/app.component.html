@@ -1,0 +1,35 @@
+<div class="container">
+
+    <h1>My service calculator</h1>
+
+    <!-- Add -->
+    <button (click)="func('add', [1, 2, 3])" class="btn btn-primary">
+        Add 1 + 2 + 3</button>
+    <button (click)="func('add', [1, 2, 3, 4, 5])" class="btn btn-primary">
+        Add 1 + 2 + 3 + 4 + 5</button>
+
+        <br/>
+
+    <!-- Sub -->
+    <button (click)="func('sub', [3, 1])" class="btn btn-success">
+        Sub 3 - 1</button>
+    <button (click)="func('sub', [67, 9])" class="btn btn-success">
+        sub 67 - 9</button>
+
+    <!-- Mul -->
+    <br/>
+    <button (click)="func('mul', [1, 2, 3])" class="btn btn-warning">
+        Mul 1 * 2 * 3</button>
+    <button (click)="func('mul', [1, 2, 3, 4, 5])" class="btn btn-warning">
+        Mul 1 * 2 * 3 * 4 * 5</button>
+
+        <br/>
+    <!-- Div -->
+    <button (click)="func('div', [9, 3])" class="btn btn-danger">
+        Div 9 / 3</button>
+    <button (click)="func('div', [65, 5])" class="btn btn-danger">
+        Div 65 / 5</button>
+
+    <div class="alert alert-success">{{ res }}</div>
+
+</div>
