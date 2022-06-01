@@ -1,6 +1,9 @@
 # Angular-morning-B-2022
 
+#### Lecturer: Raaya Klein. All rights reserved. 
+
 https://ariel-ac-il.zoom.us/j/85366199132?pwd=aFREWEpHYXo4TEJobCtqdEFXbG1Pdz09
+
 ## Lesson 01
 
 - What is Angular
@@ -52,32 +55,22 @@ Attribute directives
 - class task - Input & Output shop with stock
 
 ## Lesson 09
-
-- services
-
-<!-- 
-
+- 3 ways to pass data between components
+- services - global data
+- dependency injection
 - 
-- components and databinding deep dive
-- class task
-
-- services & dependency injection
-
-## Lesson 07
-
-- routing
-
-## Lesson 08
-
-- routing
-
-## Lesson 09
-
-- observables
 
 ## Lesson 10
 
+- Routing:
+- basic routing
+- advanced routing
+
 ## Lesson 11
 
+- Final project - Bonus
+
 ## Lesson 12
- -->
+
+- Prepare for exam!
+
