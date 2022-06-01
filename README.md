@@ -40,6 +40,21 @@ Attribute directives
 - `@Input()` decorator
 - onChanges interface
 
+## Lesson 07
+
+ - `@Output()` decorator
+ - pipes:  
+   - built-in pipes 
+   - make a pipe
+
+## Lesson 08
+
+- class task - Input & Output shop with stock
+
+## Lesson 09
+
+- services
+
 <!-- 
 
 - 
