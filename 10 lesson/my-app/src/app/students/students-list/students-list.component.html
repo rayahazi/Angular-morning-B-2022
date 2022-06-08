@@ -1,0 +1,12 @@
+<div class="container">
+    <h3>STUDENTS LIST</h3>
+
+    <ul class="list-group">
+        <li *ngFor="let student of students | async" class="list-group-item">
+            <a [routerLink]="['/student', student.id]">
+               <b>{{ student.id }}</b> {{ student.name }}
+            </a>
+        </li>
+    </ul>
+    
+</div>

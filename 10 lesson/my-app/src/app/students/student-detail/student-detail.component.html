@@ -1,0 +1,16 @@
+<div class="container">
+    <h2>Student details</h2>
+    <div *ngIf="student | async as student">
+        <h3>{{ student.name }}</h3>
+
+        <p>ID: {{ student.id }}</p>
+
+        <label>Edit name:</label>
+        <input type="text" [(ngModel)]='student.name' class='form-control'/>
+
+        <br/>
+
+        <button class="btn btn-primary" (click)="goBack()">Go back</button>
+
+    </div>
+</div>
