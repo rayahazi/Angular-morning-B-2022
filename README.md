@@ -1,8 +1,8 @@
 # Angular-morning-B-2022
 
 #### Lecturer: Raaya Klein. All rights reserved. 
+https://ariel-ac-il.zoom.us/j/84239966606?pwd=dWRaMXBxTUhFQUNyYm9oTXk5N1NUUT09
 
-https://ariel-ac-il.zoom.us/j/87162798694?pwd=Q095SWMrWkMyRUNoWTRhc2k2cThTQT09
 ## Lesson 01
 
 - What is Angular
