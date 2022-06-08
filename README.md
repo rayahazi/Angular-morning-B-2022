@@ -2,8 +2,7 @@
 
 #### Lecturer: Raaya Klein. All rights reserved. 
 
-https://ariel-ac-il.zoom.us/j/85366199132?pwd=aFREWEpHYXo4TEJobCtqdEFXbG1Pdz09
-
+https://ariel-ac-il.zoom.us/j/87162798694?pwd=Q095SWMrWkMyRUNoWTRhc2k2cThTQT09
 ## Lesson 01
 
 - What is Angular
