@@ -1,5 +1,7 @@
 # First project
 
+Angular is an TypeScript open-source free framework, Created by google. 
+
 #### Install angular cli(specific terminal for Angular)
 
 in terminal / CMD:
