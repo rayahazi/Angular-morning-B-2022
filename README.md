@@ -2,13 +2,6 @@
 
 #### Lecturer: Raaya Klein. All rights reserved. 
 
-קישור לשיעור אחרון זום: Title: full Stack - אנגולר שיעור סיכום בוקר
-Date: Jun 15, 2022 9:01 AM Jerusalem
-
-Recording-1(324 MB)
-https://ariel-ac-il.zoom.us/rec/play/mZyBNYMtFN2aeeBdqji3fVIdmiyp_JiI-HHMMbBFruNzSRiDY6cTSVndMB1Q9atJvJiD_WZi0niVh5uz.WzoSYFilxhjhTpNR
-
-
 ## Lesson 01
 
 - What is Angular
